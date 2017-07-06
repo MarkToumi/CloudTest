@@ -1,0 +1,17 @@
+Festum/Temp/
+Festum/Obj/
+Festum/UnityGenerated/
+Festum/Library/
+Festum/.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.DS_Store
+.DS_Store?
+._*
